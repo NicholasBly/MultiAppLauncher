@@ -1,0 +1,9 @@
+d:\users\nicholas\documents\visual studio 2013\Projects\Multi-App Launcher\Multi-App Launcher\bin\Debug\Multi-App Launcher.exe.config
+d:\users\nicholas\documents\visual studio 2013\Projects\Multi-App Launcher\Multi-App Launcher\bin\Debug\Multi-App Launcher.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\Multi-App Launcher\Multi-App Launcher\bin\Debug\Multi-App Launcher.pdb
+d:\users\nicholas\documents\visual studio 2013\Projects\Multi-App Launcher\Multi-App Launcher\obj\Debug\Multi-App Launcher.csprojResolveAssemblyReference.cache
+d:\users\nicholas\documents\visual studio 2013\Projects\Multi-App Launcher\Multi-App Launcher\obj\Debug\Multi_App_Launcher.Form1.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\Multi-App Launcher\Multi-App Launcher\obj\Debug\Multi_App_Launcher.Properties.Resources.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\Multi-App Launcher\Multi-App Launcher\obj\Debug\Multi-App Launcher.csproj.GenerateResource.Cache
+d:\users\nicholas\documents\visual studio 2013\Projects\Multi-App Launcher\Multi-App Launcher\obj\Debug\Multi-App Launcher.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\Multi-App Launcher\Multi-App Launcher\obj\Debug\Multi-App Launcher.pdb
